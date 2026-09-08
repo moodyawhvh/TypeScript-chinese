@@ -1,3 +1,8 @@
+# 【中文注释】Azure Pipelines 官方构建流水线定义。
+# - trigger: none:推送不会触发本流水线,仅由 schedules 中 cron(每天 07:00 UTC)夜间定时触发;
+# - signType 参数控制签名方式:auto / real(正式签名)/ test(测试签名);
+# - 流水线继承 MicroBuild 1ES 官方模板(MicroBuild.1ES.Official.yml@MicroBuildTemplate)。
+# 本注释仅为汉化说明,不改变任何流水线行为。
 trigger: none
 
 schedules:

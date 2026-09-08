@@ -1,4 +1,11 @@
 // @ts-check
+//
+// 【中文注释】本文件是 TypeScript 仓库的 hereby 构建脚本(任务入口)。
+// - hereby 是基于 Node.js 的任务运行器,`npx hereby <任务名>` 会执行本文件导出的对应任务;
+// - 每个 `export const xxx = task({...})` 定义一个可在命令行调用的构建任务;
+// - 主要任务:lib(生成 lib.*.d.ts)、build(编译本地编译器)、test(运行 Go 测试)、
+//   lint(自定义 golangci-lint)、generate(重新生成编译器源码与打包资产)等;
+// - 本注释仅为汉化说明,不改变任何构建逻辑。
 
 import AdmZip from "adm-zip";
 import chokidar from "chokidar";
