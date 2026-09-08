@@ -1,39 +1,41 @@
+> 🌐 本文档由 [microsoft/TypeScript](https://github.com/microsoft/TypeScript) 翻译,英文原版见原项目。
+
 <!-- BEGIN MICROSOFT SECURITY.MD V0.0.9 BLOCK -->
 
-## Security
+## 安全
 
-Microsoft takes the security of our software products and services seriously, which includes all source code repositories managed through our GitHub organizations.
+微软高度重视其软件产品和服务的安全性,其中包括通过我们的 GitHub 组织管理的所有源代码仓库。
 
-If you believe you have found a security vulnerability in any Microsoft-owned repository that meets [Microsoft's definition of a security vulnerability](https://aka.ms/security.md/definition), please report it to us as described below.
+如果你认为你在任何微软所有的仓库中发现了符合[微软安全漏洞定义](https://aka.ms/security.md/definition)的安全漏洞,请按下文描述向我们报告。
 
-## Reporting Security Issues
+## 报告安全问题
 
-**Please do not report security vulnerabilities through public GitHub issues.**
+**请不要通过公开的 GitHub issue 报告安全漏洞。**
 
-Instead, please report them to the Microsoft Security Response Center (MSRC) at [https://msrc.microsoft.com/create-report](https://aka.ms/security.md/msrc/create-report).
+请改为向微软安全响应中心(MSRC)报告:[https://msrc.microsoft.com/create-report](https://aka.ms/security.md/msrc/create-report)。
 
-You should receive a response within 24 hours. If for some reason you do not, please follow up using the messaging functionality found at the bottom of the Activity tab on your vulnerability report on [https://msrc.microsoft.com/report/vulnerability](https://msrc.microsoft.com/report/vulnerability/) or via email as described in the instructions at the bottom of [https://msrc.microsoft.com/create-report](https://aka.ms/security.md/msrc/create-report). Additional information can be found at [microsoft.com/msrc](https://www.microsoft.com/msrc) or on MSRC's [FAQ page for reporting an issue](https://www.microsoft.com/en-us/msrc/faqs-report-an-issue).
+你应在 24 小时内收到回复。若因故未收到,请在 [https://msrc.microsoft.com/report/vulnerability](https://msrc.microsoft.com/report/vulnerability/) 上进入你的漏洞报告的"活动"标签页,使用底部的消息功能跟进;或按照 [https://msrc.microsoft.com/create-report](https://aka.ms/security.md/msrc/create-report) 底部说明通过电子邮件跟进。更多信息请参见 [microsoft.com/msrc](https://www.microsoft.com/msrc),或 MSRC 的[问题报告 FAQ 页面](https://www.microsoft.com/en-us/msrc/faqs-report-an-issue)。
 
-Please include the requested information listed below (as much as you can provide) to help us better understand the nature and scope of the possible issue:
+请尽可能提供下列信息,帮助我们更好地了解问题的性质与影响范围:
 
-  * Type of issue (e.g. buffer overflow, SQL injection, cross-site scripting, etc.)
-  * Full paths of source file(s) related to the manifestation of the issue
-  * The location of the affected source code (tag/branch/commit or direct URL)
-  * Any special configuration required to reproduce the issue
-  * Step-by-step instructions to reproduce the issue
-  * Proof-of-concept or exploit code (if possible)
-  * Impact of the issue, including how an attacker might exploit the issue
+  * 问题类型(例如缓冲区溢出、SQL 注入、跨站脚本攻击等)
+  * 与问题表现相关的源文件的完整路径
+  * 受影响源代码的位置(tag/分支/commit 或直接 URL)
+  * 复现该问题所需的任何特殊配置
+  * 逐步复现该问题的操作说明
+  * 概念验证或漏洞利用代码(如可能)
+  * 问题的影响,包括攻击者可能如何利用该问题
 
-This information will help us triage your report more quickly.
+这些信息将帮助我们更快地分诊你的报告。
 
-If you are reporting for a bug bounty, more complete reports can contribute to a higher bounty award. Please visit our [Microsoft Bug Bounty Program](https://aka.ms/security.md/msrc/bounty) page for more details about our active programs.
+如果你是为漏洞赏金计划而报告,更完整的报告有助于获得更高的赏金。有关我们在进行中的计划详情,请访问[微软漏洞赏金计划](https://aka.ms/security.md/msrc/bounty)页面。
 
-## Preferred Languages
+## 首选语言
 
-We prefer all communications to be in English.
+我们希望所有沟通使用英文。
 
-## Policy
+## 政策
 
-Microsoft follows the principle of [Coordinated Vulnerability Disclosure](https://aka.ms/security.md/cvd).
+微软遵循[协同漏洞披露(Coordinated Vulnerability Disclosure)](https://aka.ms/security.md/cvd)原则。
 
 <!-- END MICROSOFT SECURITY.MD BLOCK -->

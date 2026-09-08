@@ -1,11 +1,13 @@
-# Support
+> 🌐 本文档由 [microsoft/TypeScript](https://github.com/microsoft/TypeScript) 翻译,英文原版见原项目。
 
-## How to file issues and get help
+# 支持
 
-This project uses GitHub issues to track bugs and feature requests. Please search the [existing issues](https://github.com/microsoft/TypeScript/issues) before filing new issues to avoid duplicates. For new issues, file your bug or feature request as a new issue.
+## 如何提交 issue 并获取帮助
 
-For help and questions about using this project, please see the [`typescript` label on Stack Overflow](https://stackoverflow.com/questions/tagged/typescript) or the [`#typescript` channel on Discord](https://discord.com/invite/typescript).
+本项目使用 GitHub issues 跟踪 bug 和功能请求。提交新 issue 前,请先搜索[已有 issue](https://github.com/microsoft/TypeScript/issues),避免重复。新的问题请以新 issue 的形式提交 bug 或功能请求。
 
-## Microsoft Support Policy
+如需有关使用本项目的帮助与答疑,请参阅 [Stack Overflow 上的 `typescript` 标签](https://stackoverflow.com/questions/tagged/typescript)或 [Discord 上的 `#typescript` 频道](https://discord.com/invite/typescript)。
 
-TypeScript releases may include new features, fixes (security and/or non-security), or a combination of both. Some critical issues may be fixed in a servicing update to the latest release. When included with a Microsoft product, TypeScript support and servicing is offered under the [Modern Support Policy](https://learn.microsoft.com/lifecycle/policies/modern). For Visual Studio, servicing fixes are limited to security fixes for versions of TypeScript included in under-support releases of Visual Studio. Community support for this project is limited to the resources listed above. Assisted support is available from a professional support engineer by opening a ticket with the [Microsoft assisted support team](https://support.serviceshub.microsoft.com/supportforbusiness/onboarding).
+## 微软支持政策
+
+TypeScript 的发布可能包含新功能、修复(安全或非安全),或两者兼有。部分关键问题可能通过针对最新发布版本的服务更新(servicing update)修复。当 TypeScript 随微软产品一同提供时,其支持与服务遵循[现代支持政策(Modern Support Policy)](https://learn.microsoft.com/lifecycle/policies/modern)。对于 Visual Studio,服务修复仅限于随受支持版本 Visual Studio 一同提供的 TypeScript 版本的安全修复。本项目的社区支持仅限于上文所列资源。如需人工协助支持,可向[微软人工支持团队](https://support.serviceshub.microsoft.com/supportforbusiness/onboarding)提交工单,由专业支持工程师为你服务。
